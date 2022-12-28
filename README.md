@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @achyuthkunchapu
+- 👋 Hi, I’m Venkata Achyuth Kunchapu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently pursuing masters in Computer Science
+- 🌱 I’m currently pursuing masters in Computer Science at State University of New York at Binghamton
 - 📫 How to reach me ...
 
 <!---
